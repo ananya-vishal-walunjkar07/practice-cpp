@@ -26,4 +26,23 @@ This repository contains a collection of C++ programs covering basic to intermed
 
 ---
 
-## 📂 Project Structure
+## 📖 Programs Included
+- Basic Input/Output
+- Arithmetic Operations
+- Conditional Statements
+- Loops
+- Functions
+- Arrays
+- Pointers
+- Simple OOP Programs
+
+
+##🤝 Contributing
+
+Contributions are welcome!
+
+- Fork the repository
+- Create a new branch
+- Commit changes
+- Push to GitHub
+- Open a Pull Request
