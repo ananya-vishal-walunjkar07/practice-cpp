@@ -37,7 +37,7 @@ This repository contains a collection of C++ programs covering basic to intermed
 - Simple OOP Programs
 
 
-##🤝 Contributing
+## 🤝 Contributing
 
 Contributions are welcome!
 
